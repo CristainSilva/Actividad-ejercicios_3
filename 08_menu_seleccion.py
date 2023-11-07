@@ -33,7 +33,7 @@ while True:
     opcion = int(input("Elija una opción: "))
 
     if opcion == 7:
-        print("ciao:)""*********************************************************")
+        print("chaooooo!!!:)""*********************************************************")
         break
 
     lado = float(input("Ingrese la longitud del lado (o radio en caso de círculo): "))
